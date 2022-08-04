@@ -55,8 +55,8 @@ def transform_df(file_name,stock_list):
 def main():
     payload = {
     "login": 1,
-    "ftp_user":"VNDIRECT011",
-    "ftp_pass":"123"}
+    "ftp_user":"",
+    "ftp_pass":""}
 
     stock_list = ['ACB','FPT','MBB','MWG','PNJ','REE','TCB','MSB','VIB','VPB','TPB']
 
